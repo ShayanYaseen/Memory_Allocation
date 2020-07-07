@@ -1,0 +1,10 @@
+18103033 
+COMPILE USING
+inside the 1 folder g++ -pthread -o program  program.cpp
+inside the 2 folder g++ -pthread -o program  program.cpp
+TO run 
+run ./<program_name>
+eg ./program
+
+Preferably use a LINUX system to compile and run this program.
+
